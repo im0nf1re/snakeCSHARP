@@ -1,0 +1,14 @@
+C:\myProjects\ZagozGame\ZagozGame\bin\Debug\ZagozGame.exe.config
+C:\myProjects\ZagozGame\ZagozGame\bin\Debug\ZagozGame.exe
+C:\myProjects\ZagozGame\ZagozGame\bin\Debug\ZagozGame.pdb
+C:\myProjects\ZagozGame\ZagozGame\obj\Debug\ZagozGame.csprojAssemblyReference.cache
+C:\myProjects\ZagozGame\ZagozGame\obj\Debug\ZagozGame.Form1.resources
+C:\myProjects\ZagozGame\ZagozGame\obj\Debug\ZagozGame.Properties.Resources.resources
+C:\myProjects\ZagozGame\ZagozGame\obj\Debug\ZagozGame.csproj.GenerateResource.cache
+C:\myProjects\ZagozGame\ZagozGame\obj\Debug\ZagozGame.csproj.CoreCompileInputs.cache
+C:\myProjects\ZagozGame\ZagozGame\obj\Debug\ZagozGame.exe
+C:\myProjects\ZagozGame\ZagozGame\obj\Debug\ZagozGame.pdb
+C:\myProjects\ZagozGame\ZagozGame\bin\Debug\ZagozGame.exe.manifest
+C:\myProjects\ZagozGame\ZagozGame\bin\Debug\ZagozGame.application
+C:\myProjects\ZagozGame\ZagozGame\obj\Debug\ZagozGame.exe.manifest
+C:\myProjects\ZagozGame\ZagozGame\obj\Debug\ZagozGame.application
